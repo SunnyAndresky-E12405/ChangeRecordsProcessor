@@ -1,0 +1,14 @@
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\StripChangeRecords.ps1
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\ChangeRecordsProcessor.exe.config
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\ChangeRecordsProcessor.exe
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\ChangeRecordsProcessor.pdb
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\System.Management.Automation.dll
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\bin\Release\System.Management.Automation.xml
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.FrmMain.resources
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.Properties.Resources.resources
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.csproj.GenerateResource.cache
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.csproj.CoreCompileInputs.cache
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.csproj.CopyComplete
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.exe
+C:\Git\GBFP-Informatica\ChangeRecordsProcessor\obj\Release\ChangeRecordsProcessor.pdb
